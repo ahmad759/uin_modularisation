@@ -11,3 +11,12 @@ def hitung_kecepatan (jarak,waktu):
 kecepatan = hitung_kecepatan(1000,5*60)
 kecepatan = hitung_kecepatan(3000,70*60)
 
+def hitung_luas (panjang,lebar):
+    luas = panjang*lebar
+    print (f'luas persegi panjang adalah {luas}m persegi')
+    return luas
+
+luas = hitung_luas(100,65)
+
+
+#buat fungsi baru
