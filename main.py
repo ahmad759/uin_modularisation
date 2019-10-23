@@ -16,6 +16,7 @@ def hitung_luas (panjang,lebar):
     print (f'luas persegi panjang adalah {luas}m persegi')
     return luas
 
+
 luas = hitung_luas(100,65)
 
 
